@@ -4,7 +4,7 @@
 ### Education
 - Student at [Posts and Telecommunications Institute of Technology, Ho Chi Minh City](https://hcm.ptit.edu.vn/)
 ### Work Experiences
-- 6/2021 - 11/2021: Database Developer Intern in [STVG](https://stvg.vn/)
+- 6/2021 - 11/2021: Database Developer (Partime) in [STVG](https://stvg.vn/)
 <!--
 **ciscopilux/ciscopilux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
